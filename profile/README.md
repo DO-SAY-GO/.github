@@ -5,14 +5,16 @@ We're the minds behind BrowserBox and DiskerNet, two groundbreaking products aim
 ### Our Products 🛠
 
 #### [BrowserBox](https://github.com/BrowserBox/BrowserBox)
-- **What It Is**: Your all-in-one secure internet solution. Experience the web unrestrained.
+- **What It Is**: Your all-in-one secure internet solution. Experience the web unrestrained. Top solution in the zero trust realm employing remote browser isolation, embeddable multiplayer browsers (co-browsing) and secure document viewing to provide a "secure remote access point" from which to view the web, while isolating your local device and network from potentailly harmful web content. 
 - **Get a License**: [Purchase Here](https://dosyago.com)
 - **Featured Review**: "BrowserBox has completely revolutionized the way we browse the web. The remote development tools are top-notch!" - Alex T, Developer at a Medical Device Company
 
 #### [DiskerNet](https://github.com/dosyago/DiskerNet)
-- **What It Is**: [Brief Description]
-- **Get a License**: [Purchase Link]
-- **Featured Review**: [A Review]
+- **What It Is**: An archive of your online journey. Be the master archivist of your own internet browsing with DiskerNet.
+- **Why DiskerNet?**: It offers Access, Efficiency, Flexibility, Simplicity, and Organization. Your own personal search engine for your online finds.
+- **Latest Updates**: Local SSL Certificates Now Supported! 🔒 🎉
+- **Licensing**: Protected under the APGL-3.0
+- **Featured Review**: "I totally love your product, it is truly amazing! A genius idea!", a user on GitHub
 
 For a selection of our other products, check out our repositories!
 
