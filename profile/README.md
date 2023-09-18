@@ -5,7 +5,7 @@ We're the minds behind BrowserBox and DiskerNet, two groundbreaking products aim
 ### Our Products 🛠
 
 #### [BrowserBox](https://github.com/BrowserBox/BrowserBox)
-- **What It Is**: Your all-in-one secure internet solution. Zero trust remote browser isolation and secure document gateway. 
+- **What It Is**: Zero trust remote browser isolation and secure document gateway. 
 - **Get a License**: [Purchase Here](https://dosyago.com)
 - **Featured Review**: "BrowserBox has completely revolutionized the way we browse the web. The remote development tools are top-notch!" - Alex T, Developer at a Medical Device Company
 
