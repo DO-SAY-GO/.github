@@ -1,10 +1,14 @@
-## Welcome to Dosyago! 🌐
+## Welcome to Dosaygo! 🌐
 
 We're the minds behind BrowserBox and DiskerNet, two groundbreaking products aimed at enhancing your online experience. Not just that, we have a penchant for the mysterious and unexplained. Intrigued? Read on.
 
-### Our Products 🛠
+### Our Products Unleashed! 🚀🛠
 
 #### [BrowserBox](https://github.com/BrowserBox/BrowserBox)
+- **Why You'll Love It**:  "BrowserBox is nothing short of revolutionary! It's the perfect blend of cybersecurity and functionality, making our Zero Trust architecture robust and user-friendly! 🚀"  
+- **Revolutionary Features**:  From Remote Browser Isolation (RBI) to Secure Document Gateway, we got it all! 💪  
+  - **Advanced RBI**: Our top-notch RBI technology isolates web content, ensuring that no harmful material comes in contact with your endpoints. 🎯  
+  - **Secure Document Gateway**: Say goodbye to risky downloads! Documents are sanitized in a secure environment before reaching your device. 📄🔒
 - **What It Is**: Zero trust remote browser isolation and secure document gateway. 
 - **Get a License**: [Purchase Here](https://dosyago.com)
 - **Featured Review**: "BrowserBox has completely revolutionized the way we browse the web. The remote development tools are top-notch!" - Alex T, Developer at a Medical Device Company
