@@ -23,14 +23,14 @@ We're the minds behind BrowserBox and DiskerNet, two groundbreaking products aim
 For a selection of our other products, check out our repositories!
 
 ### Get Involved 🌈
-1. **Contribute**: Got a knack for code? We'd love your contributions. Check out our [Contribution Guidelines](#).
-2. **Discuss**: Join our [Discord](#) or [Slack](#) to discuss everything from the latest coding trends to sightings of unidentified flying objects.
-3. **Explore**: Go through our [Docs](#) for more information.
+1. **Contribute**: Got a knack for code? We'd love your contributions. Check out our [Contribution Guidelines](https://github.com/dosyago/DownloadNet/blob/fun/CONTRIBUTING.md).
+2. **Discuss**: Join our [Service Issues Discussion Page](https://github.com/dosyago/service-issues) to discuss everything from the issues with our products, to latest coding trends to sightings of unidentified flying objects.
+3. **Explore**: Go through our [Repos](#) for more information.
 
 ### Resources and More 👽
 
-- **Docs**: Located [here](#)
-- **Code of Conduct**: Check it out [here](#)
+- **Docs**: Located [right here (yep this page)](#)
+- **Code of Conduct**: Check it out [here](https://github.com/dosyago/DownloadNet/blob/fun/CONTRIBUTING.md)
 - **Fun Links**: For those interested in UFOs and the unexplained, check these out:
   - [Reddit's UFO Community](https://reddit.com/r/UFOs)
   - [National UFO Reporting Center](https://nuforc.org/)
