@@ -14,7 +14,7 @@ We're the minds behind BrowserBox and DiskerNet, two groundbreaking products aim
 - **Featured Review**: "BrowserBox has completely revolutionized the way we browse the web. The remote development tools are top-notch!" - Alex T, Developer at a Medical Device Company
 
 #### [DiskerNet](https://github.com/dosyago/DiskerNet)
-- **What It Is**: All content your browse online available offline. Search through the *full-text* of all pages in your browser history.
+- **What It Is**: All content you browse online available offline. Search through the *full-text* of all pages in your browser history.
 - **Why DiskerNet?**: It offers Access, Efficiency, Flexibility, Simplicity, and Organization. Your own personal search engine for your online finds.
 - **Latest Updates**: Local SSL Certificates Now Supported! 🔒 🎉
 - **Licensing**: Protected under the APGL-3.0
