@@ -4,6 +4,8 @@ We're the minds behind BrowserBox and DiskerNet, two groundbreaking products aim
 
 ### Our Products Unleashed! 🚀🛠
 
+[![Star History Chart](https://api.star-history.com/svg?repos=BrowserBox/BrowserBox,dosyago/DownloadNet&type=Date)](https://star-history.com/#BrowserBox/BrowserBox&dosyago/DownloadNet&Date)
+
 #### [BrowserBox](https://github.com/BrowserBox/BrowserBox)
 - **What It Is**: Web application virtualization via zero trust remote browser isolation and secure document gateway technology. 
 - **Why You'll Love It**:  "BrowserBox is nothing short of revolutionary! It's the perfect blend of cybersecurity and functionality, making our Zero Trust architecture robust and user-friendly! 🚀"  
