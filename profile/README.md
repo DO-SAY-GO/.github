@@ -7,7 +7,7 @@ We're the minds behind BrowserBox and DiskerNet, two groundbreaking products aim
 [![Star History Chart](https://api.star-history.com/svg?repos=BrowserBox/BrowserBox,dosyago/DownloadNet&type=Date)](https://star-history.com/#BrowserBox/BrowserBox&dosyago/DownloadNet&Date)
 
 #### [BrowserBox](https://github.com/BrowserBox/BrowserBox)
-- **What It Is**: Web application virtualization via zero trust remote browser isolation and secure document gateway technology. 
+- **What It Is**: Secure, embeddable browsers in your web app, and a reverse proxy for web content you wish to protect. BrowserBox also facilitates web application virtualization via zero trust remote browser isolation and utilizes secure document gateway technology for documents like PDFs.  
 - **Why You'll Love It**:  "BrowserBox is nothing short of revolutionary! It's the perfect blend of cybersecurity and functionality, making our Zero Trust architecture robust and user-friendly! 🚀"  
 - **Revolutionary Features**:  From Remote Browser Isolation (RBI) to Secure Document Gateway, we got it all! 💪  
   - **Advanced RBI**: Our top-notch RBI technology isolates web content, ensuring that no harmful material comes in contact with your endpoints. 🎯  
