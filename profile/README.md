@@ -7,6 +7,14 @@ We're the minds behind BrowserBox and DiskerNet, two groundbreaking products aim
 [![Star History Chart](https://api.star-history.com/svg?repos=BrowserBox/BrowserBox,dosyago/DownloadNet&type=Date)](https://star-history.com/#BrowserBox/BrowserBox&dosyago/DownloadNet&Date)
 
 #### [BrowserBox](https://github.com/BrowserBox/BrowserBox)
+-  <a
+        href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FBrowserBox%2FBrowserBox%2Fboss%2Fspread-channels%2Fazure%2Fdosyago%2Fbrowserbox%2Fazuredeploy.json/createUIDefinitionUri/https%3A%2F%2Fraw.githubusercontent.com%2FBrowserBox%2FBrowserBox%2Fboss%2Fspread-channels%2Fazure%2Fdosyago%2Fbrowserbox%2FcreateUiDefinition.json">
+       <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true" alt="Deploy To Azure" style="max-width:100%"/>
+      </a>
+  -  <a
+        href="https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FBrowserBox%2FBrowserBox%2Fboss%2Fspread-channels%2Fazure%2Fdosyago%2Fbrowserbox%2Fazuredeploy.json/createUIDefinitionUri/https%3A%2F%2Fraw.githubusercontent.com%2FBrowserBox%2FBrowserBox%2Fboss%2Fspread-channels%2Fazure%2Fdosyago%2Fbrowserbox%2FcreateUiDefinition.json">
+       <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazuregov.svg?sanitize=true" alt="Deploy To Azure US Gov" style="max-width: 100%;"/>
+      </a>
 - **What It Is**: Secure, embeddable browsers in your web app, and a reverse proxy for web content you wish to protect. BrowserBox also facilitates web application virtualization via zero trust remote browser isolation and utilizes secure document gateway technology for documents like PDFs.  
 - **Why You'll Love It**:  "BrowserBox is nothing short of revolutionary! It's the perfect blend of cybersecurity and functionality, making our Zero Trust architecture robust and user-friendly! 🚀"  
 - **Revolutionary Features**:  From Remote Browser Isolation (RBI) to Secure Document Gateway, we got it all! 💪  
