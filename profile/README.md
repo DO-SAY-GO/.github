@@ -1,6 +1,6 @@
 ## Welcome to DOSYAGO! 🌐
 
-We're the minds behind BrowserBox and DiskerNet, two groundbreaking products aimed at enhancing your online experience. Not just that, we have a penchant for the mysterious and unexplained. Intrigued? Read on.
+We're the minds behind BrowserBox and DownloadNet, two groundbreaking products aimed at enhancing your online experience. Not just that, we have a penchant for the mysterious and unexplained. Intrigued? Read on.
 
 ### Our Products Unleashed! 🚀🛠 ADVANCED BROWSER TECHNOLOGIES
 
