@@ -6,7 +6,7 @@ We're the minds behind BrowserBox and DiskerNet, two groundbreaking products aim
 
 [![Star History Chart](https://api.star-history.com/svg?repos=BrowserBox/BrowserBox,dosyago/DownloadNet&type=Date)](https://star-history.com/#BrowserBox/BrowserBox&dosyago/DownloadNet&Date)
 
-#### [BrowserBox](https://github.com/BrowserBox/BrowserBox)
+## [:cyclone: BrowserBox](https://github.com/BrowserBox/BrowserBox)
 -  <a
         href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FBrowserBox%2FBrowserBox%2Fboss%2Fspread-channels%2Fazure%2Fdosyago%2Fbrowserbox%2Fazuredeploy.json/createUIDefinitionUri/https%3A%2F%2Fraw.githubusercontent.com%2FBrowserBox%2FBrowserBox%2Fboss%2Fspread-channels%2Fazure%2Fdosyago%2Fbrowserbox%2FcreateUiDefinition.json">
        <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true" alt="Deploy To Azure" style="max-width:100%"/>
@@ -23,7 +23,7 @@ We're the minds behind BrowserBox and DiskerNet, two groundbreaking products aim
 - **Get a License**: [Purchase Here](https://dosyago.com)
 - **Featured Review**: "BrowserBox has completely revolutionized the way we browse the web. The remote development tools are top-notch!" - Alex T, Developer at a Medical Device Company
 
-#### [DowloadNet](https://github.com/dosyago/DiskerNet)
+## [💾 DowloadNet](https://github.com/dosyago/DiskerNet)
 - **What It Is**: All content you browse online available offline. Search through the *full-text* of all pages in your browser history.
 - **Why DiskerNet?**: It offers Access, Efficiency, Flexibility, Simplicity, and Organization. Your own personal search engine for your online finds.
 - **Latest Updates**: Local SSL Certificates Now Supported! 🔒 🎉
