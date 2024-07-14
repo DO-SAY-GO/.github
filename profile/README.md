@@ -1,4 +1,4 @@
-## Welcome to DOSYAGO! 🌐
+## Welcome to DOSAYGO! 🌐
 
 We're the minds behind BrowserBox and DownloadNet, two groundbreaking products aimed at enhancing your online experience. Not just that, we have a penchant for the mysterious and unexplained. Intrigued? Read on.
 
@@ -46,3 +46,10 @@ For a selection of our other products, check out our repositories!
   - [Reddit's UFO Community](https://reddit.com/r/UFOs)
   - [National UFO Reporting Center](https://nuforc.org/)
   - [Overview of global Remote Viewing program](https://www.youtube.com/watch?v=H9Yr_bflXec)
+ 
+### FAQ
+
+**Why is the name spelled differently?**
+
+Funny story. The OG name was "DOSAYGO" (most common verbs in many languages besides "to be" as companies have no business telling you who "to be" but should help you with other stuff like "do" "say" "go"!). But on the company incorporation documents the "Y" and "A" letters became transposed. Serendipitous? Maybe. But anyway it was left like that for a few years, until recently we started using the OG name more prominently. 
+
