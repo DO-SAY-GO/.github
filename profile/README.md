@@ -1,4 +1,4 @@
-## Welcome to DOSAYGO 🌐  
+## Welcome to DOSAYGO 🌐
 
 At DOSAYGO, we are dedicated to developing cutting-edge browser technologies that empower organizations to enhance security, streamline compliance, and ensure the accessibility of web content. Our flagship products, **BrowserBox** and **DownloadNet**, cater to the unique needs of industries such as defense, healthcare, cybersecurity, and government.
 
@@ -26,13 +26,18 @@ Explore more: [DownloadNet on GitHub](https://github.com/dosyago/DownloadNet)
 #### **CloudTabs: SaaS Powering BrowserBox**
 CloudTabs is our SaaS offering that leverages the power of BrowserBox to provide scalable, secure browsing solutions across your organization. CloudTabs ensures that your team can work safely, with isolated browsing sessions that protect against threats while maintaining compliance with industry regulations.
 
+### **DOSAYGO Research**
+At DOSAYGO Research, we explore innovative technologies to drive the future of web security and efficiency. Our work includes the **Rain Hash Algorithm** suite, featuring general-purpose and cryptographic-inspired hash functions designed for speed, simplicity, and potential security applications. Whether you're interested in exploring these innovations or not, we’re confident in their value and impact.
+
+Explore more: [DOSAYGO Research on GitHub](https://github.com/DOSAYGO-Research/rain)
+
 ### Get Involved and Explore
 
 At DOSAYGO, we invite you to be part of our journey in redefining web interaction and security. Whether you're a developer or an organization seeking advanced solutions, we welcome you to join our community:
 
-1. **Contribute**: Help us innovate by contributing to our projects. [Check out our Contribution Guidelines](https://github.com/dosyago/DownloadNet/blob/fun/CONTRIBUTING.md).
+1. **Contribute**: [Check out our Contribution Guidelines](https://github.com/dosyago/DownloadNet/blob/fun/CONTRIBUTING.md).
 2. **Discuss**: Engage with our community to share ideas, troubleshoot, and explore the latest trends in web security and archiving.
-3. **Explore**: Dive into our repositories to discover more about what we do and how you can be a part of it.
+3. **Explore**: Dive into our repositories to discover more about what we do.
 
 ### **Source-available for Transparency and Security**
 
