@@ -1,7 +1,5 @@
 # [DOSAYGO](https://dosyago.com)
 
-**NEWS: Get out to Vote. Trump 2024. MAGA Forever 🇺🇸**
-
 ## Welcome to DOSAYGO 🌐
 
 At DOSAYGO, we are dedicated to developing cutting-edge browser technologies that empower organizations to enhance security, streamline compliance, and ensure the accessibility of web content. Our flagship products, **BrowserBox** and **DownloadNet**, cater to the unique needs of industries such as defense, healthcare, cybersecurity, and government.
