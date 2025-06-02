@@ -1,4 +1,4 @@
-# [DOSAYGO](https://dosyago.com)
+# [DOSAYGO](https://dosaygo.com)
 
 ## Welcome to DOSAYGO 🌐
 
@@ -45,7 +45,6 @@ At DOSAYGO, we invite you to be part of our journey in redefining web interactio
 
 Both BrowserBox and DownloadNet are source-available, ensuring that your organization can fully vet the code, minimizing supply chain risks and enhancing trust in the security of your tools. This transparency is crucial for meeting the highest standards of compliance and security in critical industries.
 
-- [**Deploy BrowserBox to Azure**](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FBrowserBox%2FBrowserBox%2Fboss%2Fspread-channels%2Fazure%2Fdosyago%2Fbrowserbox%2Fazuredeploy.json/createUIDefinitionUri/https%3A%2F%2Fraw.githubusercontent.com%2FBrowserBox%2FBrowserBox%2Fboss%2Fspread-channels%2Fazure%2Fdosyago%2Fbrowserbox%2FcreateUiDefinition.json)
 - [**Explore Our Code**](https://github.com/dosyago)
 
 ### **What's in a Name?**
