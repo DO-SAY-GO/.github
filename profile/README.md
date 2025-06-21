@@ -1,4 +1,4 @@
-# [DOSAYGO](https://dosaygo.com)
+# [DOSAYGO - BE who you are](https://dosaygo.com)
 
 ## Welcome to DOSAYGO 🌐
 
