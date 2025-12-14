@@ -44,7 +44,7 @@ At DOSAYGO, we invite you to be part of our journey in redefining web interactio
 
 ### **Source-available for Transparency and Security**
 
-Both BrowserBox and DownloadNet are source-available, ensuring that your organization can fully vet the code, minimizing supply chain risks and enhancing trust in the security of your tools. This transparency is crucial for meeting the highest standards of compliance and security in critical industries.
+While current versions have migrated to a proprietary binary model for IP and revenue proection, the original versions of both BrowserBox and DownloadNet are source-available, ensuring historical transparency.  minimizing supply chain risks and enhancing trust in the security of your tools. This transparency is crucial for meeting the highest standards of compliance and security in critical industries.
 
 - [**Explore Our Products**](https://dosaygo.com)
 
