@@ -13,6 +13,7 @@ BrowserBox is designed for organizations that require secure, compliant, and emb
 - **Embedded Browsing**: Seamlessly integrate secure browsing into your applications without the limitations of traditional iframes.
 - **Data Protection**: Prevent data exfiltration by wrapping local tabs in secure, remote BrowserBox tabs, ensuring compliance and protecting sensitive information.
 - **Mobile-Ready**: Enjoy a consistent, secure browsing experience across all devices, including mobile.
+- **Get a trial**: Visit [https://browserbox.io](https://browserbox.io)
 
 Explore more: [BrowserBox on GitHub](https://github.com/BrowserBox/BrowserBox)
 
@@ -31,7 +32,7 @@ CloudTabs is our SaaS offering that leverages the power of BrowserBox to provide
 ### **DOSAYGO Research**
 At DOSAYGO Research, we explore innovative technologies to drive the future of web security and efficiency. Our work includes the **Rain Hash Algorithm** suite, featuring general-purpose and cryptographic-inspired hash functions designed for speed, simplicity, and potential security applications. Whether you're interested in exploring these innovations or not, we’re confident in their value and impact.
 
-Explore more: [DOSAYGO Research on GitHub](https://github.com/DOSAYGO-Research/rain)
+Explore more: [DOSAYGO Research on GitHub](https://github.com/DOSAYGO-STUDIO/rain)
 
 ### Get Involved and Explore
 
@@ -45,7 +46,7 @@ At DOSAYGO, we invite you to be part of our journey in redefining web interactio
 
 Both BrowserBox and DownloadNet are source-available, ensuring that your organization can fully vet the code, minimizing supply chain risks and enhancing trust in the security of your tools. This transparency is crucial for meeting the highest standards of compliance and security in critical industries.
 
-- [**Explore Our Code**](https://github.com/dosyago)
+- [**Explore Our Products**](https://dosaygo.com)
 
 ### **What's in a Name?**
 Originally named "DOSAYGO," reflecting common action verbs in various languages, our name symbolizes our mission: helping you "do," "say," and "go" in the digital world. However, a small mix-up during incorporation led to the quirky spelling "DOSYAGO," which we've embraced as part of our unique identity. Now, we proudly use both names as a nod to our roots and our journey.
